@@ -1,14 +1,11 @@
 # Hi 👋 I’m Luis Ross
-I'm a electromechanical engineering student from Costa Rica, I like coding in my free time, learning new (and old) languages and technologies, mainly for fun
+I'm a electromechanical engineer from Costa Rica, I like coding in my free time, learning new (and old) languages and technologies, mainly for fun
 
-Interested in the FOSS community, any collaboration proposal will be considered :)
+Interested in the FOSS community
 
-## Interested in
-- Desktop apps (GUI, CLI, TUI)
-- Static websites
-- Operating systems
-- Low level programming (microcontrollers)
-- Data science (plotting, databases, document generators)
+## Experienced in
+- Dynamic websites full stack (JS, TS, Node, React, Python, nginx, nssm, SQL Server, SonarQube)
+- Low level programming (Arduino, ESP32)
 
 <!---
 lross2k/lross2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
